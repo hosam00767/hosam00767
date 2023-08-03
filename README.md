@@ -1,7 +1,5 @@
-# 💫 About Me:
-macchine learning
-
-
+<h1 align="center">Hi 👋, I'm Hossam</h1>
+<h3 align="center">A passionate machine learning Engineer from Egypt</h3>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MR__Vega#6825) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-mamdouh-a73858238/) 
 
