@@ -7,7 +7,6 @@ I have experience in designing data pipelines, developing data preprocessing tec
 
 - 📫 How to reach me **hosam00767@gmail.com**
 
-- ⚡ Fun fact **I'm also a content creator on YouTube**
 
 <h3 align="left">💻 Tech Stack:</h3>
 
@@ -18,7 +17,6 @@ I have experience in designing data pipelines, developing data preprocessing tec
 <p align="left">
 <a href="https://linkedin.com/in/hossam-mamdouh-a73858238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam-mamdouh-a73858238" height="30" width="40" /></a>
 <a href="https://kaggle.com/hosammamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hosammamdouh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mrvega9234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfymy1f-r4kdtmmbhzlvmnw" height="30" width="40" /></a>
 <a href="https://discord.gg/MR__Vega#6825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MR__Vega#6825" height="30" width="40" /></a>
 
 <h3 align="left">📊 GitHub Stats:</h3>
