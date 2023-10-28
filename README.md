@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hossam</h1>
 <h3 align="center">A passionate machine learning Engineer from Egypt</h3>
 I'm a Machine Learning Engineer with experience in developing intelligent systems to solve real-world problems.
-My expertise includes building and deploying models for computer vision and predictive analytics applications.
-I am skilled in programming languages such as Python and Java, as well as machine learning frameworks and libraries including Scikit-learn, TensorFlow, PyTorch, and Keras.
-I have experience in designing data pipelines, developing data preprocessing techniques, and creating visualizations to better understand the data. I. I stay up-to-date with the latest developments in the field of machine learning and artificial intelligence, and I am always looking for new challenges to improve my skills and knowledge.
+
 
 - 📫 How to reach me **hosam00767@gmail.com**
 
