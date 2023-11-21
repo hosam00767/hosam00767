@@ -19,9 +19,7 @@ I'm a Machine Learning Engineer with experience in developing intelligent system
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=hosam00767&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hosam00767&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hosam00767&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="left">✍️ Dev Quote</h3>
 
