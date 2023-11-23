@@ -21,9 +21,6 @@ I'm a Machine Learning Engineer with experience in developing intelligent system
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hosam00767&theme=dark&hide_border=false)<br/>
 
-<h3 align="left">✍️ Dev Quote</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <h3 align="left">🔝 Top Contributed Repo</h3>
 
