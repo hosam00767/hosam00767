@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hossam</h1>
-<h3 align="center">A passionate machine learning Engineer from Egypt</h3>
 I'm a Gen AI Engineer with experience in developing intelligent systems to solve real-world problems.
 
 
