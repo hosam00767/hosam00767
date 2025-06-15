@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hossam</h1>
 <h3 align="center">A passionate machine learning Engineer from Egypt</h3>
-I'm a Machine Learning Engineer with experience in developing intelligent systems to solve real-world problems.
+I'm a Gen AI Engineer with experience in developing intelligent systems to solve real-world problems.
 
 
 - 📫 How to reach me **hosam00767@gmail.com**
@@ -15,7 +15,6 @@ I'm a Machine Learning Engineer with experience in developing intelligent system
 <p align="left">
 <a href="https://linkedin.com/in/hossam-mamdouh-a73858238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam-mamdouh-a73858238" height="30" width="40" /></a>
 <a href="https://kaggle.com/hosammamdouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hosammamdouh" height="30" width="40" /></a>
-<a href="https://discord.gg/MR__Vega#6825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MR__Vega#6825" height="30" width="40" /></a>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
